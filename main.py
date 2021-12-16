@@ -96,6 +96,10 @@ JOKES = [
     {
         "question": "Why are elevator jokes so classic and good?",
         "answer": "They work on many levels."
+    },
+    {
+        "question": "Why did chicken cross the road?",
+        "answer": "To get to the other side."
     }
 ]
 
